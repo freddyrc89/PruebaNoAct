@@ -23,5 +23,4 @@
         android:text="Procesar"
         tools:layout_editor_absoluteX="117dp"
         tools:layout_editor_absoluteY="197dp" />
-
 </FrameLayout>
