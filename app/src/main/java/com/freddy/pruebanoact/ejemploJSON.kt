@@ -70,6 +70,7 @@ fun main(){
     //println("las calificaciones son: ${libro.calificaciones[0].usuario} es ${libro.calificaciones[0].puntuacion} ")
     println("las calificaciones son:")
     libro.calificaciones.forEach{
+        println("-------")
         println("usuario: " + it.usuario)
         println("puntuacion: " + it.puntuacion)
         println("comentario: " + it.comentario)
